@@ -1,4 +1,4 @@
-- 👋 Hi, I’mnuumuun@BTB-PROJECT
+- 👋 Hi, I’m  nuumuun another project ...@BTB-PROJECT
 - 👀 I’m interested in developing useful tech.
 - 🌱 I’m currently learning ...React
 - 💞️ I’m looking to collaborate on ...App development for a Land Conservation Project, and developing a tech system to "Protect Home Equity"
